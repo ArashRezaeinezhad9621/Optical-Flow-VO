@@ -2,7 +2,7 @@
 
 This repository will host the code, pretrained models, and results for our paper:
 
-**"Benchmarking Optical Flow Backbones for Visual Odometry in TartanVO and DytanVO"**
+**"A Modular Benchmark for Plug-and-Play Optical Flow in Cross-Domain Visual Odometry"**
 
 ---
 
